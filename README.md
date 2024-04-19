@@ -1,1 +1,2 @@
 # NopCommerceCypressAutomation
+# Cypress Automation
